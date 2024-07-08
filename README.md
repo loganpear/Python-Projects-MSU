@@ -1,6 +1,6 @@
 # Python Projects
 
-This repository contains a collection of Python projects completed as part of coursework through Michigan State University and personal projects. 
+This repository contains a collection of Python projects completed as part of coursework through Michigan State University CSE 231.
 
 ## Project 4: Genetic Algorithm for Optimization
 

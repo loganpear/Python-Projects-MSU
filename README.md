@@ -14,13 +14,13 @@ This repository contains a collection of Python projects completed as part of co
 - **Key Features**: CSV data parsing, searching based on user queries, computing minimum, maximum, and median card prices, interactive menu system.
 - **Skills**: File handling, data manipulation, user interface design, Python scripting.
 
-## Project 6: Crossword Game Solver
+## Project 6: Social Media Connections Analyzer
 
-- **Description**: Developed a crossword game solver with interactive features.
-- **Key Features**: Puzzle input, guessing, revealing answers, clue display, user commands.
-- **Skills**: Object-oriented programming, file handling, user interface design.
+- **Description**: Developed a program to analyze and display social media connections between users on X and Facebook.
+- **Key Features**: File reading, data processing into nested dictionaries, computing various statistics (friend intersections, percentage of no shared friends, triangle friendships), interactive menu system.
+- **Skills**: File handling, data manipulation, nested data structures, user interaction design, Python programming.
 
-## Project 7: Crossword Puzzle
+## Project 7: Crossword Game
 
 - **Description**: Implemented a crossword game solver with advanced user interaction.
 - **Key Features**: File input for crossword puzzles, clue management, user commands (guessing, revealing answers, hinting), puzzle solving detection.
